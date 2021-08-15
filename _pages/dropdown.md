@@ -1,12 +1,13 @@
 ---
 layout: page
-title: submenus
+title: other
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: activities
+      permalink: /activities/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: service
+      permalink: /service/
+importance: 6
 ---
