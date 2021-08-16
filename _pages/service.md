@@ -6,5 +6,5 @@ permalink: /service/
 nav: false
 ---
 
-- **Conference Meta Reviewer Assistant**: ICASSP 2021
-- **Conference Meta Assistant**: ASRU 2021
+- Conference Meta Reviewer Assistant: ICASSP 2021
+- Conference Meta Assistant: ASRU 2021

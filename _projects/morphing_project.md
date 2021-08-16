@@ -11,5 +11,3 @@ category: course
 Are We Attracted to People Who Look Like Us?
 
 A psychological experiment using 2D face image metamorphosis implemented in NumPy and OpenCV.
-
-[ <a href="https://github.com/vectominist/Face-Image-Morphing" target="_blank" rel="noopener">code</a> ]

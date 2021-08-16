@@ -65,9 +65,9 @@ blockquote {
   }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 250px) {
   .profile {
-    width: 30%;
+    width: 20%;
     .address {
       p { display: block; }
     }
