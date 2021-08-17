@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /honors/
-title: honors
+title: Honors
 nav: true
 importance: 3
 ---
