@@ -4,7 +4,7 @@ title: Course Map Visualization
 description: open-source project
 img: /assets/img/coursemap.png
 github: https://github.com/vectominist/Course-Map-Visualization
-importance: 1
+importance: 5
 category: fun
 ---
 

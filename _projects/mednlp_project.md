@@ -4,7 +4,7 @@ title: Mandarin Medical Dialogue Analysis
 description: Final project of Natural Language Processing
 img: /assets/img/mednlp.png
 github: https://github.com/vectominist/MedNLP
-importance: 1
+importance: 2
 category: course
 ---
 
