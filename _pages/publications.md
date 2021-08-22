@@ -12,6 +12,7 @@ importance: 1
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
+  <br>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
