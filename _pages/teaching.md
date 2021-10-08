@@ -11,6 +11,14 @@ importance: 4
 
 - <div class="row">
     <div class="col-sm-9 mt-3 mt-md-0">
+        <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html" target="_blank" rel="noopener">Deep Learning for Human Language Processing Project</a>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" align="right">
+        Fall 2021
+    </div>
+    </div>
+- <div class="row">
+    <div class="col-sm-9 mt-3 mt-md-0">
         <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html" target="_blank" rel="noopener">Machine Learning (English & Mandarin Classes)</a>
     </div>
     <div class="col-sm-3 mt-3 mt-md-0" align="right">

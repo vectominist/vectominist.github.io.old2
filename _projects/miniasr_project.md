@@ -21,13 +21,11 @@ category: work
 
 A mini, simple, and fast end-to-end automatic speech recognition toolkit.
 
-* **Minimal Code** 📄  
-  Less than 1600 lines of code.
-* **Minimal Modification** ✏️  
-  Easy to customize.
-* **Minimal Training** ⏱  
-  Self-supervised pre-trained model + minimal fine-tuning.
+* **Minimal Training** 🚀  
+  Self-supervised pre-trained models + minimal fine-tuning.
 * **Simple and Flexible** ⚙️  
-  Easy for beginners to understand and customizing.
+  Easy to understand and customize.
+* **Colab Compatible** 🧪  
+  Train your model directly on Google Colab.
 
 If you find this toolkit useful, please leave a star to this repo, thanks!
