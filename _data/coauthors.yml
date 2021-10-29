@@ -1,3 +1,7 @@
+"Chuang*":
+  - firstname: ["Shun-Po", "S.-P."]
+    url: https://scholar.google.com.hk/citations?user=CYDgtRoAAAAJ
+
 "Lee":
   - firstname: ["Hung-yi", "H.-y."]
     url: http://speech.ee.ntu.edu.tw/~hylee/
@@ -7,3 +11,11 @@
 "Liu":
   - firstname: ["Alexander H.", "A. H.", "Alexander"]
     url: https://alexander-h-liu.github.io/
+
+"Huang":
+  - firstname: ["Sung-Feng", "S.-F."]
+    url: https://scholar.google.com.tw/citations?user=dtZ_69AAAAAJ
+
+"Yang":
+  - firstname: ["Shu-wen", "S.-w."]
+    url: https://github.com/leo19941227
