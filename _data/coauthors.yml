@@ -1,6 +1,6 @@
-"Chuang*":
-  - firstname: ["Shun-Po", "S.-P."]
-    url: https://scholar.google.com.hk/citations?user=CYDgtRoAAAAJ
+# "Chuang*":
+#   - firstname: ["Shun-Po", "S.-P."]
+#     url: https://scholar.google.com.hk/citations?user=CYDgtRoAAAAJ
 
 "Lee":
   - firstname: ["Hung-yi", "H.-y."]
@@ -8,14 +8,14 @@
   - firstname: ["Lin-shan", "L.-s."]
     url: http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm
 
-"Liu":
-  - firstname: ["Alexander H.", "A. H.", "Alexander"]
-    url: https://alexander-h-liu.github.io/
+# "Liu":
+#   - firstname: ["Alexander H.", "A. H.", "Alexander"]
+#     url: https://alexander-h-liu.github.io/
 
-"Huang":
-  - firstname: ["Sung-Feng", "S.-F."]
-    url: https://scholar.google.com.tw/citations?user=dtZ_69AAAAAJ
+# "Huang":
+#   - firstname: ["Sung-Feng", "S.-F."]
+#     url: https://scholar.google.com.tw/citations?user=dtZ_69AAAAAJ
 
-"Yang":
-  - firstname: ["Shu-wen", "S.-w."]
-    url: https://github.com/leo19941227
+# "Yang":
+#   - firstname: ["Shu-wen", "S.-w."]
+#     url: https://github.com/leo19941227

@@ -8,6 +8,14 @@ importance: 3
 
 - <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
+        Dean's List Awards x 5
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0" align="right">
+        NTU, 2017-2021
+    </div>
+    </div>
+- <div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
         Best Poster Honorable Mention
     </div>
     <div class="col-sm-6 mt-3 mt-md-0" align="right">
@@ -20,14 +28,6 @@ importance: 3
     </div>
     <div class="col-sm-6 mt-3 mt-md-0" align="right">
         ISCA <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech</a>, 2021
-    </div>
-    </div>
-- <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        Dean's List Awards x 5
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0" align="right">
-        NTU, 2017-2021
     </div>
     </div>
 - <div class="row">
