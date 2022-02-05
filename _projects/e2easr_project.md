@@ -4,7 +4,7 @@ title: End-to-end Speech Recognition
 description: open-source project
 img: /assets/img/e2easr.png
 github: https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch
-importance: 1
+importance: 2
 category: work
 ---
 

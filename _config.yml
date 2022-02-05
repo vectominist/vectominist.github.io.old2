@@ -62,13 +62,13 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/264/5138.html # your DBLP profile url
-cv: https://drive.google.com/file/d/1DxEDPgZzY3U9We4QVxY9YQhcQYFYb2ND/view?usp=sharing
+cv: https://drive.google.com/file/d/144-NgCKGDm-e0UBnHbsWF6bhl6nQmptn/view?usp=sharing
 
 contact_note: >
   If you are interested in my works or working with me, 
   please don't hesitate to contact me via email!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-5JSG4QVPJ4 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -177,7 +177,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true   # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
