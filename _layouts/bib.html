@@ -86,6 +86,9 @@
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
+    {% if entry.ieee %}
+      <a href="https://ieeexplore.ieee.org/document/{{ entry.ieee }}" class="btn btn-sm z-depth-0" role="button" target="_blank">ieee xplore</a>
+    {% endif %}
     {% if entry.video %}
       <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">video</a>
     {% endif %}
